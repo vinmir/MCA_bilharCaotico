@@ -27,7 +27,7 @@ As posições iniciais são facilmente determinadas por álgebra modular e geome
 
 $$\alpha = \pi\frac{m}{n},\ x_0 = \cos(\alpha),$$
 
-onde $n,m \in \mathbb{Z}$, com $n>2m$ e $n,m>1$ e $\alpha$ é o ângulo descrito an imagem abaixo:
+onde $n,m \in \mathbb{Z}$, com $n>2m$ e $n,m\ge1$ e $\alpha$ é o ângulo descrito an imagem abaixo:
 
 ![bilhar_eliptico](https://github.com/vinmir/MCA_bilharCaotico/assets/133194350/4fee528c-d26b-4dc4-8164-d499110bfa93)
 
